@@ -17,7 +17,7 @@ A simple yet engaging Python game built using **Pygame**. The game allows you to
 4. Create a `hidden_messages2.txt` file with your custom messages (one per line).
 5. Run the script:
    ```bash
-   python scrollable_scratch.py
+   python index.py
    ```
 
 ## Controls
@@ -26,7 +26,7 @@ A simple yet engaging Python game built using **Pygame**. The game allows you to
 - **Right Mouse Button (Hold):** Drag to scroll.
 
 ## File Structure
-- `scrollable_scratch.py`: Main game script.
+- `index.py`: Main game script.
 - `hidden_messages2.txt`: File containing hidden messages. Ensure it exists in the same directory as the script.
 
 ## Customization
@@ -56,4 +56,3 @@ This project is open-source and available under the MIT License. Feel free to mo
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
